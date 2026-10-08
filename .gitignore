@@ -1,0 +1,8 @@
+# >>> eval8 (managed) >>>
+.vscode/
+# <<< eval8 (managed) <<<
+
+# >>> project guide (managed) >>>
+fittrack.db
+__pycache__/
+# <<< project guide (managed) <<<
